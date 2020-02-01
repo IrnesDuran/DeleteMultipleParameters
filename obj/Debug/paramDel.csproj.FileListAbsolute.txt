@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\DeleteParameter\Proba1\obj\Debug\Proba1.Forme.prvaLista.resources
+C:\Users\user\source\repos\DeleteParameter\Proba1\obj\Debug\paramDel.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\DeleteParameter\Proba1\obj\Debug\paramDel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DeleteParameter\Proba1\bin\Debug\DeleteParameters.dll
+C:\Users\user\source\repos\DeleteParameter\Proba1\bin\Debug\DeleteParameters.pdb
+C:\Users\user\source\repos\DeleteParameter\Proba1\obj\Debug\paramDel.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\DeleteParameter\Proba1\obj\Debug\DeleteParameters.dll
+C:\Users\user\source\repos\DeleteParameter\Proba1\obj\Debug\DeleteParameters.pdb

@@ -1,0 +1,15 @@
+c:\users\user\source\repos\Proba1\Proba1\bin\Debug\Proba1.dll
+c:\users\user\source\repos\Proba1\Proba1\bin\Debug\Proba1.pdb
+c:\users\user\source\repos\Proba1\Proba1\obj\Debug\Proba1.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Proba1\Proba1\obj\Debug\Proba1.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Proba1\Proba1\obj\Debug\Proba1.dll
+c:\users\user\source\repos\Proba1\Proba1\obj\Debug\Proba1.pdb
+c:\users\user\source\repos\Proba1\Proba1\obj\Debug\Proba1.Forme.PrvaForma.resources
+c:\users\user\source\repos\Proba1\Proba1\obj\Debug\Proba1.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\DeleteParameter\Proba1\bin\Debug\Proba1.dll
+C:\Users\user\source\repos\DeleteParameter\Proba1\bin\Debug\Proba1.pdb
+C:\Users\user\source\repos\DeleteParameter\Proba1\obj\Debug\Proba1.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\DeleteParameter\Proba1\obj\Debug\Proba1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DeleteParameter\Proba1\obj\Debug\Proba1.dll
+C:\Users\user\source\repos\DeleteParameter\Proba1\obj\Debug\Proba1.pdb
+C:\Users\user\source\repos\DeleteParameter\Proba1\obj\Debug\Proba1.Forme.prvaLista.resources
